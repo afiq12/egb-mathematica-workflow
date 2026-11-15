@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "egb-mathematica-workflow: Wolfram Language code for Einstein-Gauss-Bonnet inflation"
+type: software
+authors:
+  - family-names: Agung
+    given-names: Afiq
+    orcid: "https://orcid.org/0000-0002-8698-9459"
+    affiliation: "Universitas Sulawesi Barat"
+version: "1.0.0"
+date-released: "2026-11-15"
+license: MIT
+repository-code: "https://github.com/afiq12/egb-mathematica-workflow"
+keywords:
+  - Gauss-Bonnet inflation
+  - Mathematica
+  - Wolfram Language
+  - slow-roll approximation
