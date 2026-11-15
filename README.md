@@ -5,6 +5,9 @@ Wolfram Language (Mathematica) code for the tutorial note
 **"From action to observables: a reproducible Mathematica workflow for Einstein-Gauss-Bonnet inflation"**
 by Afiq Agung (Universitas Sulawesi Barat, Indonesia).
 
+Preprint: [doi.org/10.5281/zenodo.24242179](https://doi.org/10.5281/zenodo.24242179)
+Code archive: [doi.org/10.5281/zenodo.24239065](https://doi.org/10.5281/zenodo.24239065) (v1.0.0)
+
 The three files take the Einstein-Gauss-Bonnet inflation action to checked background
 equations, slow-roll predictions for an arbitrary potential and coupling, and a numerical
 test of those predictions. They use only built-in functions and were tested with
@@ -48,7 +51,16 @@ where `G` is the Gauss-Bonnet invariant.
 
 ## Citation
 
-If you use this code, please cite the tutorial note and this repository. See `CITATION.cff`.
+If you use this code, please cite both the note and the code archive:
+
+> Agung, A. (2026). From action to observables: a reproducible Mathematica workflow for
+> Einstein-Gauss-Bonnet inflation. Zenodo. https://doi.org/10.5281/zenodo.24242179
+
+> Agung, A. (2026). egb-mathematica-workflow: Wolfram Language code for
+> Einstein-Gauss-Bonnet inflation (Version v1.0.0) [Computer software]. Zenodo.
+> https://doi.org/10.5281/zenodo.24239065
+
+See `CITATION.cff` for machine-readable metadata.
 
 ## License
 

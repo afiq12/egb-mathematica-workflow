@@ -11,6 +11,16 @@ version: "1.0.0"
 date-released: "2026-11-15"
 license: MIT
 repository-code: "https://github.com/afiq12/egb-mathematica-workflow"
+doi: "10.5281/zenodo.24239065"
+preferred-citation:
+  type: article
+  title: "From action to observables: a reproducible Mathematica workflow for Einstein-Gauss-Bonnet inflation"
+  authors:
+    - family-names: Agung
+      given-names: Afiq
+      orcid: "https://orcid.org/0000-0002-8698-9459"
+  year: 2026
+  doi: "10.5281/zenodo.24242179"
 keywords:
   - Gauss-Bonnet inflation
   - Mathematica
